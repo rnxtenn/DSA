@@ -1,2 +1,2 @@
 # Linkedlist
-al linked list learnings
+all linked list learnings
